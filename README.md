@@ -1,2 +1,2 @@
 # newTraning
-coding
+coding javascript 
